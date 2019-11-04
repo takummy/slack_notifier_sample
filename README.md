@@ -1,3 +1,3 @@
 # slack_notifier_sample
 
-gem slack-notifierを使ってみる。
+gem slack-notifyを使ってみる。
